@@ -85,7 +85,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=6OhMbf2v_jI) - This helped me to Learn JSON in 25 Minutes | Complete JSON Crash Course | JSON Tutorial for Beginners. I really liked this video.
-- [Example resource 2](https://www.youtube.com/watch?v=9t3vMi95z2w) - This is a good video which helped me finally Learn JSON Step-by-Step from Scratch. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.youtube.com/watch?v=9t3vMi95z2w) - This is a good video which also helped me Learn JSON Step-by-Step from Scratch. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
