@@ -80,8 +80,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=6OhMbf2v_jI) - This helped me to Learn JSON in 25 Minutes | Complete JSON Crash Course | JSON Tutorial for Beginners. I really liked this video.
@@ -91,11 +89,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Add your name here](https://gladstonerose.tech)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gladstone28)
+- Twitter - [@yourusername](https://www.twitter.com/gladdyus)
 
 ## Acknowledgments
 
